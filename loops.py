@@ -11,3 +11,9 @@ while j < 5:
     if j == 3:
         continue
     print(j)
+
+# Example of a while loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1  # Increment the count to eventually make the condition false
